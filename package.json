@@ -1,9 +1,14 @@
 {
   "name": "@patwoz/prettier-config",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "My personal Prettier config",
   "main": "index.json",
-  "repository": "git@github.com:patlux/prettier-config.git",
-  "author": "Patrick Wozniak <email@patwoz.de>",
-  "license": "MIT"
+  "author": "Patrick Wozniak <email@patwoz.de> (https://patwoz.de)",
+  "homepage": "https://github.com/patlux/prettier-config.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patlux/prettier-config.git"
+  },
+  "license": "MIT",
+  "private": false
 }

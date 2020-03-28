@@ -4,8 +4,10 @@
   "trailingComma": "es5",
   "endOfLine": "lf",
   "useTabs": false,
+  "tabWidth": 2,
   "printWidth": 100,
   "bracketSpacing": true,
   "requirePragma": false,
-  "arrowParens": "always"
+  "arrowParens": "always",
+  "semi": true
 }
